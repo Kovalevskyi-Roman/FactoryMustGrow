@@ -1,0 +1,15 @@
+
+project.name     =   "Factory Must Grow!"
+project.version  =   "0.0.1"
+
+TODO:
+    window
+    player
+    tile and tileManager
+    collision
+    function tiles
+    inventory
+    items
+    recipes and crafts
+    quests
+    entity's
