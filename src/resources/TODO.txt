@@ -3,7 +3,6 @@ project.name     =   "Factory Must Grow!"
 project.version  =   "0.0.1"
 
 TODO:
-    window
     player
     tile and tileManager
     collision
